@@ -7,7 +7,7 @@
     <body>
     	<h1>Zarni Ohn</h1>
 	<h2>Information Technology (Game Development)</h2>
-	    <div class="about-nav">
+	    <div class='container-fluid'>
 	    	<p>
 	            My name is Zarni Ohn and I am a student here at NJIT. I am a Junior that t			  ransfered over from the Computer Science program. I switched over to Infor			mation Technology because of the Game Development Program. I have always b		      een interested in games and would like to pursue a career in creating game		    s that I think many others like myself would enjoy.
 	    	</p>
