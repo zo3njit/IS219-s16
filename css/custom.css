@@ -24,7 +24,7 @@
 			</div>		
 			
 			<div class="navbar-default">
-				<a class="navbar-brand" href="#">Project 1</a>
+				<a class="navbar-brand" href="index.php">Project 1</a>
 			</div>
 		</div>
 		
@@ -37,7 +37,7 @@
 
 
 	<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js'></script>
-    <script src='bootstrap-3.3.6-dist/js/bootstrap.js'></script>
+    <script src='js/bootstrap.js'></script>
 </body>	
 
 </html>
