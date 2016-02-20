@@ -1,11 +1,51 @@
-.header {
-	
+
+body {
+	background-color: orange;
 }
 
-.body {
-	height: 99%;
-	width: 80%;
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+	float:left;
+}
+
+li a:hover {
+	background-color: #111;
+	text-decoration: none;
+}
+
+li a {
+	display: inline-block;
+	color: white;
+	text-align: center;
+	font-family: "Arial";
+	padding: 14px 16px;
+	font-weight: bold;
+}
+
+
+div.title {
+	font-family:"Verdana";
+	width: 100%;
 	margin-top: 10px;
+	text-align: center;
 }
 
-<link href='css/custom.css' rel='stylesheet'>
+div.footer {
+	position: relative;
+	top:30px;
+	text-align: center;
+}
+
+p.post {
+	position: relative;
+	top: 30px;
+	left: 15px;
+	font-size: 16px;
+}
