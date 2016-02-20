@@ -1,6 +1,6 @@
 
 body {
-	background-color: orange;
+	background-color: lightgrey;
 }
 
 ul {
@@ -31,9 +31,10 @@ li a {
 
 
 div.title {
+	position: relative;
 	font-family:"Verdana";
 	width: 100%;
-	margin-top: 10px;
+	margin-top: 50px;
 	text-align: center;
 }
 
@@ -46,6 +47,13 @@ div.footer {
 p.post {
 	position: relative;
 	top: 30px;
-	left: 15px;
+	left: 45px;
 	font-size: 16px;
+	word-wrap: break-word;
+	width: 90%;
+	text-align: justify;
+}
+
+div.container {
+	background-color: white;
 }
