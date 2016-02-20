@@ -55,7 +55,7 @@
 					<b>Interests</b><br><br>My interests include browsing technology and gaming related websites like <a href="http://www.bluesnews.com/">www.bluesnews.com</a>.
 					I like Learning different game making software and tools like Unity, Blender tools and the Source engine.
 					My favorite games are Counter Strike-Global Offensive and The Elder Scroll games. I try to learn how the 
-					game works by looking through the assets and codes.<br><br><br><br>
+					games work by looking through the assets and codes.<br><br><br><br>
 				</p>				
 			</div>
 		</div>
