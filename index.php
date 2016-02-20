@@ -35,7 +35,7 @@
 	<div class="page">
 		<div class="container">
 			<div class="title">
-				<h1>Welcome</h1>				
+				<h1>Zarni Ohn</h1>				
 			</div>
 		</div>
 		

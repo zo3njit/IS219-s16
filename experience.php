@@ -40,14 +40,13 @@
 		</div>
 		
 		<div class="container">
-			<div class="col-md-4 post1">
+			<div class="exp1">
 				<p class="post">
-					Welcome!<br><br>I am a student at NJIT pursuing a degree in Information Technology; specifically 
-					in the game development program. I am a junior that transferred over from Bergen Community College
-					and was previously pursuing a degree in Computer Science. While the CS program has taught me a lot,
-					the game industry requires you to know many facets including programming. I feel I will learn plenty
-					of what the game development classes will offer as well as the classes the IT degree contains.
-					I would like to have a career making competitive games.<br><br>
+					LIIT.Co<br>
+					IT Front Desk<br><br>
+					
+					Galleria Group<br>
+					IT Help Desk<br><br>
 				</p>
 			</div>
 		</div>

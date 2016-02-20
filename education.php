@@ -40,7 +40,7 @@
 		</div>
 		
 		<div class="container">
-			<div class="post1">
+			<div class="table1">
 				<table class="ed-ul">
 					<tr>
 						<td>Bergen Community College</td>
