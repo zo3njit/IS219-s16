@@ -40,8 +40,8 @@
 		</div>
 		
 		<div class="container">
-			<div class="post1">
-				<p class="col-md-4 post">
+			<div class="col-md-4 post1">
+				<p class="post">
 					Welcome!<br><br>I am a student at NJIT pursuing a degree in Information Technology; specifically 
 					in the game development program. I am a junior that transferred over from Bergen Community College
 					and was previously pursuing a degree in Computer Science. While the CS program has taught me a lot,
@@ -50,7 +50,7 @@
 					I would like to have a career making competitive games.<br><br>
 				</p>
 			</div>
-			<div class="post2">
+			<div class="col-md-4 post2">
 				<p class="post">
 					<b>Interests</b><br><br>My interests include browsing technology and gaming related websites like <a href="http://www.bluesnews.com/">www.bluesnews.com</a>.
 					I like Learning different game making software and tools like Unity, Blender tools and the Source engine.

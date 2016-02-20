@@ -57,3 +57,16 @@ p.post {
 div.container {
 	background-color: white;
 }
+
+table.ed-ul {
+	width:90%;
+}
+
+td {
+	padding: 5px;
+}
+
+.blank_row {
+	height: 10px !important;
+	background-color:#FFFFF;
+}
